@@ -4,4 +4,3 @@
 
 
 ![Cecilia Botelho GitHub stats](https://github-readme-stats.vercel.app/api?username=CeciliaBotelho&theme=panda&show_icons=true)
-
